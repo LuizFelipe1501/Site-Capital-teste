@@ -14,6 +14,9 @@ Site institucional em HTML/CSS/JS puro, pronto para a Vercel. Sem build, sem dep
 3. Framework preset: **Other**. Sem build command, output = raiz. Deploy.
 4. Para testar local: `npx serve .` (os links /sobre funcionam com o serve).
 
+## Imagens
+Ver IMAGENS.md — baixar as imagens do painel do Wix para a pasta img/ com os nomes indicados, ANTES do plano Wix expirar.
+
 ## O que falta preencher (marcado no site como placeholder)
 - Fotos reais: faixa "polaroids" da home, imagens dos 7 cases, foto do Hackathon BB (página Sobre).
 - Depoimentos reais de clientes (blocos de citação na home e em /cases).
